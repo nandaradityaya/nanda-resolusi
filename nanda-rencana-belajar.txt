@@ -1,0 +1,8 @@
+Rencana Belajar Nanda
+
+- Javascript
+  * ES6
+  * Vanilla JS
+- ReactJS
+- PHP Laravel
+- SCSS
