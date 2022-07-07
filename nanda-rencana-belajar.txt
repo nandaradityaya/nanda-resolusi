@@ -4,6 +4,7 @@ Rencana Belajar Nanda
   * ES6
   * Vanilla JS
   * Vue JS
+  * React
 - Fundamental Structure Data
 - ReactJS
 - PHP Laravel
