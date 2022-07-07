@@ -3,7 +3,10 @@ Rencana Belajar Nanda
 - Javascript
   * ES6
   * Vanilla JS
+  * Vue JS
 - Fundamental Structure Data
 - ReactJS
 - PHP Laravel
+  * Laravel
 - SCSS
+- Python
